@@ -114,7 +114,7 @@
   "devDependencies": {
     "@types/node": "^20.5.4",
     "@types/vscode": "^1.80.0",
-    "@vscode/vsce": "^2.20.1",
+    "@vscode/vsce": "^3.2.2",
     "concurrently": "^8.2.1",
     "esbuild": "^0.19.2",
     "rimraf": "^5.0.1",
