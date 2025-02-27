@@ -112,7 +112,7 @@
     "vscode-languageserver": "^8.1.0"
   },
   "devDependencies": {
-    "@types/node": "^20.5.4",
+    "@types/node": "^22.13.5",
     "@types/vscode": "^1.80.0",
     "@vscode/vsce": "^2.20.1",
     "concurrently": "^8.2.1",
