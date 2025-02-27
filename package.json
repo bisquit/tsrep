@@ -16,17 +16,17 @@
     "bump": "bumpp -r"
   },
   "devDependencies": {
-    "@types/react": "^18.2.21",
-    "@typescript-eslint/eslint-plugin": "^6.4.1",
-    "@typescript-eslint/parser": "^6.4.1",
-    "bumpp": "^9.2.0",
-    "changelogithub": "^0.12.12",
-    "eslint": "^8.47.0",
+    "@types/react": "^18.3.18",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "bumpp": "^9.11.1",
+    "changelogithub": "^0.13.11",
+    "eslint": "^8.57.1",
     "eslint-plugin-simple-import-sort": "^10.0.0",
-    "prettier": "^3.0.2",
-    "react": "^18.2.0",
-    "turbo": "^1.10.13",
-    "typescript": "^5.1.6"
+    "prettier": "^3.5.2",
+    "react": "^18.3.1",
+    "turbo": "^1.13.4",
+    "typescript": "^5.7.3"
   },
   "prettier": {
     "singleQuote": true

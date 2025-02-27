@@ -18,11 +18,11 @@
     "build": "tsup"
   },
   "dependencies": {
-    "debug": "^4.3.4"
+    "debug": "^4.4.0"
   },
   "devDependencies": {
-    "@types/debug": "^4.1.8",
-    "@types/node": "^20.5.4",
+    "@types/debug": "^4.1.12",
+    "@types/node": "^20.17.19",
     "tsup": "^7.2.0"
   },
   "repository": {
